@@ -1,0 +1,28 @@
+name: FNC Consulting
+favicon: null
+layout_spectrum: 0.48122442374005914
+typography_spectrum: 0.3313593054190278
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7941392010543495
+  lightness: 0.2009705719538033
+  saturation: 0.33156282058916986
+  rhythmicContrast: 0.6195297092199326
+purpose: []
